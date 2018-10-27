@@ -1,12 +1,8 @@
 # DoubleSubmitCookiesPattern
-A simple web application develop to demonstrate how to use Double Submit Cookies Pattern to prevent Cross-Site Request Forgery (CSRF).
+Web application develop to depict Double Submit Cookies Pattern to prevent Cross-Site Request Forgery (CSRF).
 
-Steps:
+How to run project:
 
-1.Install xammp server
+1.Clone the project copy to - C:\xampp\htdocs\ in xamp server
 
-2.Run xammp server
-
-3.Clone this project folder and save it inside this folder - C:\xampp\htdocs\
-
-4.Open the browser and type http://localhost/DoubleSubmitCookiesPattern/login.php
+2.Open the browser and type http://127.0.0.1/DoubleSubmitCookiesPattern/login.php
